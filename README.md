@@ -70,3 +70,5 @@ Build 23 відповідає цим вихідним змінам. Іденти
 ---
 
 **English:** swiryyyyX is an independent Android ARM64 Telegram X client by swiryy, featuring local hidden chats, folder forwarding with sender/caption options, a dark interface, Telegram Stars and gift flows. Community beta; public APK attachment is pending. Source modifications and the pinned upstream revision are included. Not affiliated with Telegram or Nicegram.
+## Резервна копія історії
+[Завантажити Git-архів обох репозиторіїв](https://github.com/swiryy/swiryyyyX-community/releases/tag/history-backup-2026-10-15). Він містить повну історію старого [swiryyX](https://github.com/swiryy/swiryyX) та початкову історію цього репозиторію, з оригінальними комітами. Обидва репозиторії збережені. Архів є резервною копією для розробників; актуальні зміни Build 23 залишаються в `main`.
